@@ -1,0 +1,26 @@
+# vscocde 插件清单
+
+- Atom One Light Theme
+- Auto Rename Tag
+- Bookmarks
+- CSS Peek
+- Elm Emmet
+- ESLint
+- filesize
+- Git History
+- GitLens — Git supercharged
+- HTML CSS Support
+- HTML Snippets
+- JavaScript (ES6) code snippets
+- javascript console utils
+- language-stylus
+- Markdown All in One
+- Mystique
+- One Monokai Theme
+- open in browser
+- Path Autocomplete
+- sftp
+- Subtle Match Brackets
+- Vetur
+- vscode-fileheader
+- vscode-icon
